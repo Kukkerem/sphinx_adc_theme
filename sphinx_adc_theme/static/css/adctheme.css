@@ -642,6 +642,13 @@ dl.class dd dl.method dt {
    
 }
 
+dl.class dd dl.staticmethod dt {
+   padding: 3px;
+   background-color: #e9e9e9;
+   border-top: none;
+   
+}
+
 dl.function dt {
     padding: 3px;
     border-top: 2px solid #999;
